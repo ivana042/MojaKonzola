@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace MojaKonzola
 {
-    class Program
+    class Class3
     {
-        static void Main(string[] args)
+        public static void Message()
         {
-            Console.WriteLine("Hello world!");
-            Class3.Message();
-            Console.ReadKey();
+            Console.WriteLine("Class3");
         }
     }
 }
