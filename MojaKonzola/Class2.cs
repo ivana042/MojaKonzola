@@ -10,7 +10,7 @@ namespace MojaKonzola
     {
         public static void Message()
         {
-            Console.WriteLine("Class2");
+            Console.WriteLine("Hello from Class2");
         }
     }
 }
